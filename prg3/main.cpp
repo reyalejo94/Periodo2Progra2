@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdlib.h>
+#include <stdlib.h> //PARA APLICAR system("PAUSE")
 
 /*
 Ingresar el nombre del empleado las horas trabajadas y el turno luego
