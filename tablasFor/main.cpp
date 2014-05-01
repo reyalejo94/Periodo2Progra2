@@ -9,7 +9,7 @@ Hacerlo 5 veces.*/
 
 int main()
 {
-    int numero, uno, dos, tre, cua, cinc, seis, siet, ocho, nuev, diez;
+    int numero, tabla;
     for (int i=0; i<5; i++)
     {
         do
@@ -19,20 +19,14 @@ int main()
 
         }while (!((numero>=1) and (numero<=10)));
 
-    uno = numero * 1;
-    dos = numero * 2;
-    tre = numero * 3;
-    cua = numero * 4;
-    cinc = numero * 5;
-    seis = numero * 6;
-    siet = numero * 7;
-    ocho = numero * 8;
-    nuev = numero * 9;
-    diez = numero * 10;
-
-    cout<<"\nLos multiplos de " <<numero<<" del 1-10 son...: "<<uno<<", "<<dos<<", "<<tre<<", "
-    <<cua<<", "<<cinc<<", "<<seis<<", "<<siet<<", "<<ocho<<", "<<nuev<<" y "<<diez<<"\n\n";
+        for (int k=1; k<=10; k++)
+        {
+            tabla = numero * k;
+            cout<<k<<" X "<<numero<<" = "<<tabla<<"\n";
+        }
+    cout<<"\n\n";
 
     }
+
     system("PAUSE");
 }
