@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398962659 source:c:\users\reyalvarado\desktop\tarea3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
