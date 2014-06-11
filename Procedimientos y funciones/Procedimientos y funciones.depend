@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400193416 source:c:\users\rey alvarado\documents\github\periodo2progra2\procedimientos y funciones\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

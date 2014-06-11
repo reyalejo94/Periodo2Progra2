@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1401772271 source:c:\users\rey alvarado\documents\github\periodo2progra2\1a100\main.cpp
+	<stdlib.h>
+	<iostream>
+	<time.h>
+

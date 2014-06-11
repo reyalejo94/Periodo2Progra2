@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401767509 source:c:\users\rey alvarado\documents\github\periodo2progra2\tarea_semana7\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
